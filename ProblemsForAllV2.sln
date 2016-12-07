@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProblemsForAllV2", "ProblemsForAllV2\ProblemsForAllV2.csproj", "{691F6658-59B4-4B37-8395-BF82DF5336DD}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{31260634-4A38-4D3E-9451-1851F5717646}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "008", "008", "{CD6A6FE6-0DB1-45E0-A24E-93EE7C545F08}"
+	ProjectSection(SolutionItems) = preProject
+		008_Largest_product_in_a_series.cs = 008_Largest_product_in_a_series.cs
+		data.txt = data.txt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{691F6658-59B4-4B37-8395-BF82DF5336DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{691F6658-59B4-4B37-8395-BF82DF5336DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{691F6658-59B4-4B37-8395-BF82DF5336DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{691F6658-59B4-4B37-8395-BF82DF5336DD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{CD6A6FE6-0DB1-45E0-A24E-93EE7C545F08} = {31260634-4A38-4D3E-9451-1851F5717646}
+	EndGlobalSection
+EndGlobal
