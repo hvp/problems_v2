@@ -9,7 +9,6 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution 
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "008", "008", "{CD6A6FE6-0DB1-45E0-A24E-93EE7C545F08}"
 	ProjectSection(SolutionItems) = preProject
-		008_Largest_product_in_a_series.cs = 008_Largest_product_in_a_series.cs
 		data.txt = data.txt
 	EndProjectSection
 EndProject
