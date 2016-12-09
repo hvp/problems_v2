@@ -12,6 +12,11 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "008", "008", "{CD6A6FE6-0DB
 		data.txt = data.txt
 	EndProjectSection
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "011", "011", "{7CF5541E-20AB-470D-B7D0-8B78C67942FD}"
+	ProjectSection(SolutionItems) = preProject
+		data2.txt = data2.txt
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -28,5 +33,6 @@ Global
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{CD6A6FE6-0DB1-45E0-A24E-93EE7C545F08} = {31260634-4A38-4D3E-9451-1851F5717646}
+		{7CF5541E-20AB-470D-B7D0-8B78C67942FD} = {31260634-4A38-4D3E-9451-1851F5717646}
 	EndGlobalSection
 EndGlobal

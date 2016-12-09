@@ -10,7 +10,11 @@ namespace ProblemsForAllV2
     {
         static void Main(string[] args)
         {
-         //  _008 _008Instance = new _008();
+            //  _008 _008Instance = new _008();
+            //  _009 _008Instance = new _009();
+            //  _010 _010Instance = new _010();
+              _011 _010Instance = new _011();
+
 
             Console.Read();
         }
