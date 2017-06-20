@@ -16,7 +16,7 @@ namespace ProblemsForAllV2
 
         public _011()
         {
-            text = System.IO.File.ReadAllLines(@"C:\Users\Dell2\Documents\problems_v2\data2.txt");
+            text = System.IO.File.ReadAllLines(@"C:\Users\Rob.Lynam\Documents\problems_v2\data2.txt");
 
     Console.WriteLine(Helper.biggest(getAdjacentProducts()));
 

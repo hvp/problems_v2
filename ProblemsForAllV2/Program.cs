@@ -13,14 +13,15 @@ namespace ProblemsForAllV2
             //  _008 _008Instance = new _008();
             //  _009 _008Instance = new _009();
             //  _010 _010Instance = new _010();
-              _011 _010Instance = new _011();
+            //  _011 _010Instance = new _011();
+            _012 _012Instance = new _012();
 
 
             Console.Read();
         }
 
-  
 
-       
+
+
     }
 }
