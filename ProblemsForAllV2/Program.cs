@@ -14,7 +14,8 @@ namespace ProblemsForAllV2
             //  _009 _008Instance = new _009();
             //  _010 _010Instance = new _010();
             //  _011 _010Instance = new _011();
-            _012 _012Instance = new _012();
+            //_012 _012Instance = new _012();
+            _014 _014Instance = new _014();
 
 
             Console.Read();
